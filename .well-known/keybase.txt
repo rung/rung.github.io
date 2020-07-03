@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/suezawa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.hiroki.dev
+  * I am suezawa (https://keybase.io/suezawa) on keybase.
+  * I have a public key with fingerprint 0A2D 7439 5ED0 D9B2 DFA6  BC3B 419D 278C 5FDF 0189
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d5bf20755f11b328a10ee98f07837f07b244e1a73a776c6efe20f50198a110890a",
+      "fingerprint": "0a2d74395ed0d9b2dfa6bc3b419d278c5fdf0189",
+      "host": "keybase.io",
+      "key_id": "419d278c5fdf0189",
+      "kid": "0101ed8522dec85a01807c75bab87334db14a8ddbdbc4c64b61e052a93b496fbd8a30a",
+      "uid": "e0f25dbbe2acf552b9b4d5c14b997219",
+      "username": "suezawa"
+    },
+    "service": {
+      "hostname": "www.hiroki.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1593792011,
+  "expire_in": 157680000,
+  "prev": "9fccc4c0e484ade45d9ebb925d5911dd19c07dcc5d9d26d2c022a46fbd1bb02b",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN0AnicbVJtUFRVGF5AIHAAGWKolLKboMQOnnv33r33LoZDYHxUA1EKg+TOPfec
+C5dd7q67CwTkR4qTpQFRLRGiRtMoiyh9GaFBaCYfEcGsYpY4KcoUbj+ijwFLupfR
+f50f58x5z/M87/O8c74OC9CF+qW2rt5vvur3mt9wf3O5bsvCpqU1BLShKsJUQ1jw
+4oGtCDtdZouMCBMBSAogBkoUYBlGIklooDiBBBjznARYzsCqO6RoGpMCaxBY1iga
+sYQpIDGA5FUkCTgeCISekGSlGDvsDllxabIChVjawDMYAcRDCkmCEYoGSJM8olhO
+ZCQkAZLjVWKJzakxVHNQcOIk2abW1It50d7/4O/5BiRGHENRCIscI6iPgBVZBgqQ
+Yw0GGkGSFjiEIIIiLRppaCQxYCiBVz3wRgkiTjAs+i5flMNAohgEIaYEUWIYCvKQ
+RoxI0pDnWYrU+pY7sUMRyrCKdpbjaqFSILbpCbVYIYtYm6sW5C6gsrIyqUR22Cxy
+EsIVKtnusLlsos2qvpW4XHanSeO6quyLYAzNd2XMUFaQOkiVUYEdTtmmECZSRYou
+WdMlGd7A8hQgST2BX7LLDmyWNQTDGjmgLq2P2s5E8JIoqrEBpjlaQJhmEI8h5NWI
+DE+SCJG8CFgkimodUUZEiYCiBFobCwkhoCChBduq2FRttZVLKNZCy8WK4Cp3YGLb
+mf6iJTq/UF1QoL/2w3ShIcvu/TuWiJgP0EfrUxJ3NtAx8Fw6+XDWnvp1kR1FhVFL
+Iz5mz/ge+CxoNi7+78qFsu4URzfwreqLHlmT99Cb8efDkre7V+bm72uebBvX513J
+PLerr+Ba5NUrq04ZvMpQ+yMfesPDY7OUljt7vMM/zq80PtgsDfxwKmH58LrYR9O+
+z67NGGPjQ4JZ+5HDfd6csSY3u1pml+V+MttZ92+nJ3DzkS/Db3ShZ17gc/aWvl0R
+k2jp2bgjut8XPVGSUTjjqe4vu7yhzdxgSpx7Z6v9gNLuzT7e2nrz/vrzlo4vJi+u
+bx+1Vo3JcvbJv17sPMTPe7LcvZ5XmlKSg6eCp3HOiTipOuziget7OxqVJl390zkH
+f2q8FXUpvKuu/U5srvd4d7N42mfqfe79mE9rI6jp2wVnN6YbFspm1iTOPOsqrRmc
+HT+hT/Zf0j3ak8Jd+i7/j66TQ8+HRL6V4L/htvHGZvbbucMfebJ/1f25wj0z+Pvr
+tPXajoG4cNtQe996T611/2+zj++aXHGwDrh/big5HVH4eeaW9OCEC30TQ21CZONO
+Kd9FvfrNSNXutvG0qQ86PVmw9OhAmzvzsciGC0rgvveOpZ6dWO47mocKWl7mmJF/
+AqTA65z12PQUiApqHbsVsKkhqXciau3w2kNvvPvE7h591VxnfqFv8D6rfaho+1cZ
+qUG+y2au6CnLky0348lfRtP+A2fIv34=
+=56iw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/suezawa
+
+==================================================================
