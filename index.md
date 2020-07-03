@@ -34,12 +34,15 @@
   - [GitHub Repository](https://github.com/rung/training-exploit-fundamentals)
 
 ## Certification
-- [GREM (GIAC Reverse Enginnering Malware)](https://www.youracclaim.com/badges/6a988dab-8f75-4ae2-b10d-00081bbaa48e/linked_in_profile) 2017/3
-    - Reverse engineering/x86 assembly/Static and Dynamic malware analysis
-- [GCFA (GIAC Certified Forensic Analyst)](https://www.youracclaim.com/badges/c5cac59f-e8ac-416d-9f1c-1637d7071db2/linked_in_profile) 2018/3
-    - Incident investigation/Incident response
 - [GXPN (GIAC Exploit Researcher and Advanced Penetration Tester)](https://www.youracclaim.com/badges/2fa26bfa-035a-41f7-9267-041227e7a8a8/linked_in_profile) 2018/7
     - Network/Crypt/Exploitation/x86 assembly
+- [GCFA (GIAC Certified Forensic Analyst)](https://www.youracclaim.com/badges/c5cac59f-e8ac-416d-9f1c-1637d7071db2/linked_in_profile) 2018/3
+    - Incident investigation/Incident response
+- [GREM (GIAC Reverse Enginnering Malware)](https://www.youracclaim.com/badges/6a988dab-8f75-4ae2-b10d-00081bbaa48e/linked_in_profile) 2017/3
+    - Reverse engineering/x86 assembly/Static and Dynamic malware analysis
 
 ## Contact
-- suezawa@gmail.com
+- Email: suezawa@gmail.com
+- Twitter: [@rung](https://mobile.twitter.com/rung)
+- GitHub: [@rung](https://github.com/rung)
+- Linkedin: [suezawa](https://www.linkedin.com/in/suezawa/)
