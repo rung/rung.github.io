@@ -2,4 +2,3 @@ theme: jekyll-theme-minimal
 title: "Hiroki Suezawa"
 description: "Email: suezawa@gmail.com"
 logo: "image/logo.png"
-permalink: .well-known/keybase.txt
