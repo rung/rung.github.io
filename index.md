@@ -43,7 +43,7 @@
 
 ## Contact
 - Email: suezawa@gmail.com
-- Keybase(PGP Key): [suezawa](https://keybase.io/suezawa)
+- Keybase: [suezawa](https://keybase.io/suezawa)
 - Twitter: [@rung](https://mobile.twitter.com/rung)
 - GitHub: [@rung](https://github.com/rung)
 - Linkedin: [suezawa](https://www.linkedin.com/in/suezawa/)
