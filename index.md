@@ -34,11 +34,16 @@
   - [GitHub Repository](https://github.com/rung/training-exploit-fundamentals)
 
 ## Certification
-- CKA (Certified Kubernetes Administrator) Aug, 2020 (Kubernetes Administration)
-- [CISSP (Certified Information Systems Security Professional)](https://www.youracclaim.com/badges/1491717a-b9ce-43c3-bc86-1c5fc560d267/public_url) Jul, 2020 (Risk Management/Security Engineering/Network Security/Software Development Security)
-- [GXPN (GIAC Exploit Researcher and Advanced Penetration Tester)](https://www.youracclaim.com/badges/2fa26bfa-035a-41f7-9267-041227e7a8a8/public_url) Jul, 2020 (Network/Crypt/Exploitation/x86 assembly)
-- [GCFA (GIAC Certified Forensic Analyst)](https://www.youracclaim.com/badges/c5cac59f-e8ac-416d-9f1c-1637d7071db2/public_url) Mar, 2018 (Incident investigation/Incident response)
-- [GREM (GIAC Reverse Enginnering Malware)](https://www.youracclaim.com/badges/6a988dab-8f75-4ae2-b10d-00081bbaa48e/public_url) Mar, 2017 (Reverse engineering/x86 assembly/Static and Dynamic malware analysis)
+- CKA (Certified Kubernetes Administrator) Aug, 2020
+  - Kubernetes Administration
+- [CISSP (Certified Information Systems Security Professional)](https://www.youracclaim.com/badges/1491717a-b9ce-43c3-bc86-1c5fc560d267/public_url) Jul, 2020
+  - Risk Management/Security Engineering/Network Security/Software Development Security
+- [GXPN (GIAC Exploit Researcher and Advanced Penetration Tester)](https://www.youracclaim.com/badges/2fa26bfa-035a-41f7-9267-041227e7a8a8/public_url) Jul, 2020
+  - Network/Crypt/Exploitation/x86 assembly
+- [GCFA (GIAC Certified Forensic Analyst)](https://www.youracclaim.com/badges/c5cac59f-e8ac-416d-9f1c-1637d7071db2/public_url) Mar, 2018
+  - Incident investigation/Incident response
+- [GREM (GIAC Reverse Enginnering Malware)](https://www.youracclaim.com/badges/6a988dab-8f75-4ae2-b10d-00081bbaa48e/public_url) Mar, 2017
+  - Reverse engineering/x86 assembly/Static and Dynamic malware analysis
 - 情報セキュリティスペシャリスト(IPA) Dec, 2014
 - 応用情報技術者(IPA) Jun, 2014
 
