@@ -45,7 +45,7 @@
 - [GREM (GIAC Reverse Enginnering Malware)](https://www.youracclaim.com/badges/6a988dab-8f75-4ae2-b10d-00081bbaa48e/public_url) Mar, 2017
   - Reverse engineering/x86 assembly/Static and Dynamic malware analysis
 - 情報セキュリティスペシャリスト (Information Security Specialist, issued by IPA) Dec, 2014
-- 応用情報技術者 (Applied Information Technology Engineer Examination, issued by IPA) Jun, 2014
+- 応用情報技術者 (Applied Information Technology Engineer, issued by IPA) Jun, 2014
 
 ## Contact
 - Email: suezawa@gmail.com
