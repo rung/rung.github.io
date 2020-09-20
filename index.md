@@ -1,4 +1,8 @@
 # Top page
+- Hiroki Suezawa aka @rung (らんぐ)
+- Black Tea lover
+  - [自宅で美味しい紅茶を飲む](https://note.com/rung/n/nba330d22992a)
+
 ## Career
 - Mercari, Inc. (メルカリ)
   - Security Engineer
