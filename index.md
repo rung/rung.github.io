@@ -27,8 +27,10 @@
 - Security
     - Linux/Network/Kubernetes/Malware
 
-## Presentation
+## Presentation/Documentation
 ### 2020
+- 10/17 The State of Messaging Security 2020: メールおよびメッセージングアプリのセキュリティプロトコルの現在
+  - [Documentatin (日本語/Japanese)](https://github.com/rung/messaging-security-2020)
 - 4/23 Kubernetes Security For Microservices ([Kubernetes Meetup Tokyo #30](https://k8sjp.connpass.com/event/171599/))
   - [Slide](https://speakerdeck.com/rung/kubernetes-security-for-microservices)
   - [Video](https://www.youtube.com/watch?v=5rW0T63A_P8&t=5370)
