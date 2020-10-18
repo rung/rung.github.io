@@ -29,12 +29,13 @@
 
 ## Presentation/Documentation
 ### 2020
-- 10/17 The State of Messaging Security 2020: メールおよびメッセージングアプリのセキュリティプロトコルの現在
+- Oct 17th The State of Messaging Security 2020: メールおよびメッセージングアプリのセキュリティプロトコルの現在
   - [Documentatin (日本語/Japanese)](https://github.com/rung/messaging-security-2020)
-- 4/23 Kubernetes Security For Microservices ([Kubernetes Meetup Tokyo #30](https://k8sjp.connpass.com/event/171599/))
+- Apr 23th Kubernetes Security For Microservices ([Kubernetes Meetup Tokyo #30](https://k8sjp.connpass.com/event/171599/))
   - [Slide](https://speakerdeck.com/rung/kubernetes-security-for-microservices)
   - [Video](https://www.youtube.com/watch?v=5rW0T63A_P8&t=5370)
-- 1/22 Exploitation Fundamentals (Mercari Internal Training)
+  - [GitHub Repository (Tutorial)](https://github.com/rung/tutorial-gke-security)
+- Jan 22th Exploitation Fundamentals (Mercari Internal Training)
   - [Slide (Japanese/日本語)](https://docs.google.com/presentation/d/1rLbyE6LDtpFjIS2ABidmnK0mIyi0Qm4pQMp5mkgbdw8/edit)
   - [Slide (English)](https://docs.google.com/presentation/d/1o1mlrI5MKHiJOPG-6A6YQnT3q0ZEA-BZk9rs_ltauEM/edit)
   - [GitHub Repository](https://github.com/rung/training-exploit-fundamentals)
