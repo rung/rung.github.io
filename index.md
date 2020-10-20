@@ -29,6 +29,9 @@
 
 ## Presentation/Documentation
 ### 2020
+- Oct 19th [Gophers Office Hours #13 〜セキュリティ回〜](https://mercari.connpass.com/event/191408/)
+  - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=apJySz-EBV8)
+  - [Additional Comment on Twitter(Twitterでの追加コメント)](https://twitter.com/rung/status/1318131791278993414)
 - Oct 17th The State of Messaging Security 2020: メールおよびメッセージングアプリのセキュリティプロトコルの現在
   - [Documentatin (日本語/Japanese)](https://github.com/rung/messaging-security-2020)
 - Apr 23th Kubernetes Security For Microservices ([Kubernetes Meetup Tokyo #30](https://k8sjp.connpass.com/event/171599/))
