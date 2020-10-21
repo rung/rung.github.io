@@ -43,6 +43,12 @@
   - [Slide (English)](https://docs.google.com/presentation/d/1o1mlrI5MKHiJOPG-6A6YQnT3q0ZEA-BZk9rs_ltauEM/edit)
   - [GitHub Repository](https://github.com/rung/training-exploit-fundamentals)
 
+## Interview
+### 2020
+- Oct 19th [サイバー攻撃からメルカリを守り抜く、Securityチームが求める人！ #今メルカリが一緒に働きたい仲間
+](https://mercan.mercari.com/articles/25271/) - Mercan
+
+
 ## Certification
 - [CKA (Certified Kubernetes Administrator)](https://www.youracclaim.com/badges/ec5b0e74-8644-4dca-b893-b510263af23b/public_url) Aug, 2020
   - Kubernetes Administration
