@@ -46,7 +46,7 @@
 ## Interview
 ### 2020
 - Oct 19th [サイバー攻撃からメルカリを守り抜く、Securityチームが求める人！ #今メルカリが一緒に働きたい仲間
-](https://mercan.mercari.com/articles/25271/) - Mercan
+](https://mercan.mercari.com/articles/25271/) - mercan
 
 
 ## Certification
