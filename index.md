@@ -29,22 +29,26 @@
 
 ## Presentation/Documentation
 ### 2020
-- Nov 2 [Gophers Office Hours #14 Goとセキュリティ vol.2](https://mercari.connpass.com/event/192864/)
+- Nov 2: [Gophers Office Hours #14 Goとセキュリティ vol.2](https://mercari.connpass.com/event/192864/)
   - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=Ca96Vsfa69A)
   - [Additional Comment(追加コメント)](https://twitter.com/rung/status/1323160375353749505?s=20)
-- Oct 19 [Gophers Office Hours #13 〜セキュリティ回〜](https://mercari.connpass.com/event/191408/)
+- Oct 19: [Gophers Office Hours #13 〜セキュリティ回〜](https://mercari.connpass.com/event/191408/)
   - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=apJySz-EBV8)
   - [Additional Comment on Twitter(Twitterでの追加コメント)](https://twitter.com/rung/status/1318131791278993414)
-- Oct 17 The State of Messaging Security 2020: メールおよびメッセージングアプリのセキュリティプロトコルの現在
+- Oct 17: The State of Messaging Security 2020: メールおよびメッセージングアプリのセキュリティプロトコルの現在
   - [Documentatin (日本語/Japanese)](https://github.com/rung/messaging-security-2020)
-- Apr 23 Kubernetes Security For Microservices ([Kubernetes Meetup Tokyo #30](https://k8sjp.connpass.com/event/171599/))
+- Apr 23: Kubernetes Security For Microservices ([Kubernetes Meetup Tokyo #30](https://k8sjp.connpass.com/event/171599/))
   - [Slide](https://speakerdeck.com/rung/kubernetes-security-for-microservices)
   - [Video](https://www.youtube.com/watch?v=5rW0T63A_P8&t=5370)
   - [GitHub Repository (Tutorial)](https://github.com/rung/tutorial-gke-security)
-- Jan 22 Exploitation Fundamentals (Mercari Internal Training)
+- Jan 22: Exploitation Fundamentals (Mercari Internal Training)
   - [Slide (Japanese/日本語)](https://docs.google.com/presentation/d/1rLbyE6LDtpFjIS2ABidmnK0mIyi0Qm4pQMp5mkgbdw8/edit)
   - [Slide (English)](https://docs.google.com/presentation/d/1o1mlrI5MKHiJOPG-6A6YQnT3q0ZEA-BZk9rs_ltauEM/edit)
   - [GitHub Repository](https://github.com/rung/training-exploit-fundamentals)
+
+### 2018
+- Dec 28: Protocol for Web 2018 (Internal Presentation)
+  - [Slide (Japanese/日本語)](https://speakerdeck.com/rung/protocol-for-web-2018)
 
 ## Interview
 ### 2020
