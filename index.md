@@ -29,9 +29,9 @@
 
 ## Presentation/Documentation
 ### 2020
-- Nov 19: [Mercari Security Engineer Meetup #2](https://mercari.connpass.com/event/193664/)
-  - The slide is not published
+- Nov 19: Phishing Detection and Automation For Customers ([Mercari Security Engineer Meetup #2](https://mercari.connpass.com/event/193664/))
   - [Overview and References](https://github.com/rung/phishing-automation-references)
+  - The slide is not published
 - Nov 2: [Gophers Office Hours #14 Goとセキュリティ vol.2](https://mercari.connpass.com/event/192864/)
   - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=Ca96Vsfa69A)
   - [Additional Comment(追加コメント)](https://twitter.com/rung/status/1323160375353749505?s=20)
