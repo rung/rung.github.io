@@ -23,9 +23,9 @@
 - Programming
     - Go
 - Protocol
-    - TLS/HTTP/HTTP2/SMTP/DNS
+    - TLS, HTTP, HTTP2, SMTP, DNS
 - Security
-    - Linux/Network/Kubernetes/Malware
+    - Linux, Network, Kubernetes, DevSecOps, Cloud(GCP), Malware
 
 ## Presentation/Documentation
 ### 2020
