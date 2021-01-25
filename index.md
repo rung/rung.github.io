@@ -25,7 +25,9 @@
 - Protocol
     - TLS, HTTP, HTTP2, SMTP, DNS
 - Security
-    - Linux, Network, Kubernetes, DevSecOps, Cloud(GCP), Malware
+    - Linux, Network, Container, Kubernetes, Cloud(GCP), Malware
+- DevSecOps
+    - IaC(Terraform), SAST
 
 ## Presentation/Documentation
 ### 2020
