@@ -62,6 +62,8 @@
 
 
 ## Certification
+- [OSCP (Offensive Security Certified Professional)](https://www.youracclaim.com/badges/2f26dcbb-524c-45ff-a475-f8104b422bb0/public_url) Mar, 2021
+  - Penetration test, Red Teaming
 - [CKS (Certified Kubernetes Security Specialist)](https://www.youracclaim.com/badges/4ec16308-a3dc-4be2-8fd0-e3e1110519cf/public_url) Jan, 2021
   - Kubernetes Security
 - [CKA (Certified Kubernetes Administrator)](https://www.youracclaim.com/badges/ec5b0e74-8644-4dca-b893-b510263af23b/public_url) Aug, 2020
