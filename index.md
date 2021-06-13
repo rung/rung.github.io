@@ -5,7 +5,7 @@
 
 ## Career
 - Mercari, Inc. (メルカリ)
-  - Security Engineer
+  - Security Engineer (Security Engineering Team)
     - 2019 Feb -
 
 - Nomura Research Institute, Ltd. (野村総合研究所)
