@@ -29,9 +29,14 @@
 - DevSecOps
     - IaC(Terraform), SAST
 
-I've contributed [Gosec](https://github.com/securego/gosec), [Falco](https://github.com/falcosecurity/falco), etc.
+I've contributed to [Gosec](https://github.com/securego/gosec), [Falco](https://github.com/falcosecurity/falco), etc.
 
 ## Presentation/Documentation
+### 2021
+- Apr 23: Phishing Detection and Automation For Customers -フィッシング対策自動化について ([Council of Anti-Phishing Japan(フィッシング対策協議会) 第2回フィッシング対策勉強会](https://www.antiphishing.jp/news/event/antiphishing_2nd_studygroup.html))
+  - [Overview and References](https://github.com/rung/phishing-automation-references)
+  - The slide is not published
+
 ### 2020
 - Nov 19: Phishing Detection and Automation For Customers ([Mercari Security Engineer Meetup #2](https://mercari.connpass.com/event/193664/))
   - [Overview and References](https://github.com/rung/phishing-automation-references)
@@ -44,6 +49,10 @@ I've contributed [Gosec](https://github.com/securego/gosec), [Falco](https://git
   - [Additional Comment on Twitter(Twitterでの追加コメント)](https://twitter.com/rung/status/1318131791278993414)
 - Oct 17: The State of Messaging Security 2020: メールおよびメッセージングアプリのセキュリティプロトコルの現在
   - [Documentatin (日本語/Japanese)](https://github.com/rung/messaging-security-2020)
+- (Guest Commenter) Sep 8: [Gophers Office Hours #10 〜コンパイラ、低レイヤ回 vol.2〜](https://mercari.connpass.com/event/186823/)
+  - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=aMExh-xiTyY)
+- (Guest Commenter) Aug 18: [Gophers Office Hours #8 〜自作コンパイラ、低レイヤ回〜](https://mercari.connpass.com/event/184388/)
+  - [Youtube Archive (日本語/Japanese)](https://www.youtube.com/watch?v=fdlvuJQbjQs)
 - Apr 23: Kubernetes Security For Microservices ([Kubernetes Meetup Tokyo #30](https://k8sjp.connpass.com/event/171599/))
   - [Slide](https://speakerdeck.com/rung/kubernetes-security-for-microservices)
   - [Video](https://www.youtube.com/watch?v=5rW0T63A_P8&t=5370)
