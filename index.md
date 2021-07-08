@@ -33,6 +33,9 @@ I've contributed to [Gosec](https://github.com/securego/gosec), [Falco](https://
 
 ## Presentation/Documentation
 ### 2021
+- Jul 7: Achieving Security Compliance Monitoring with Open Policy Agent and Rego ([Open Policy Agent Rego Knowledge Sharing Meetup](https://mercari.connpass.com/event/211073/))
+  - [Slide](https://speakerdeck.com/rung/achieving-security-compliance-monitoring-with-open-policy-agent-and-rego)
+  - [Video](https://www.youtube.com/watch?v=0YpJhrz6L0A&t=2129)
 - Apr 23: Phishing Detection and Automation For Customers -フィッシング対策自動化について ([Council of Anti-Phishing Japan(フィッシング対策協議会) 第2回フィッシング対策勉強会](https://www.antiphishing.jp/news/event/antiphishing_2nd_studygroup.html))
   - [Overview and References](https://github.com/rung/phishing-automation-references)
   - The slide is not published
